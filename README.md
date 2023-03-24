@@ -1,6 +1,6 @@
 # Credit-Fraud-Assessment
 
-**Tech Stack:** AI/ML, Pandas, Numpy, Seaborn, SkLearn, Linear Regression, Random Forest Regression,  K-Nearest Neighbours Regression, LGBM Classifier, Random Forest Classifier
+**Tech Stack:** AI/ML, Pandas, Numpy, Seaborn, SkLearn, Matplotlib, Linear Regression, Random Forest Regression,  K-Nearest Neighbours Regression, LGBM Classifier, Random Forest Classifier
 
 <br /> 
 
