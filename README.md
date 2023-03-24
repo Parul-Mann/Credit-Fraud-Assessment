@@ -4,16 +4,17 @@
 
 <br /> 
 
-**Dataset Description:** A total of 32582 data points for Credit Fraud Assessmentare used with 14 variables including age, income, home ownership status, employment length, loan intent, loan grade, etc. The target variable is loan status which has 1 for loan approved and 0 for loan not approved. 
+**Dataset Description:** A total of 32582 data points for Credit Fraud Assessment are used with 14 variables including age, income, home ownership status, employment length, loan intent, loan grade, etc. The target variable is loan status which has 1 for loan approved and 0 for loan not approved. 
 
 <br /> 
 
 **Data Cleaning and Training**
 - Finding and dropping duplicates
-- Removing redundant/absurd values
+- Removing redundant values
+- Removing absurd values
 - Managing missing values
-  - Iterative imputing 
-  - Standard scaling
+  - Iterative Imputing 
+  - Standard Scaling
 
 Following the train-test split, randomized search using the following is done to find the most optimal set of paraments. 
 - LGBM Classifier
